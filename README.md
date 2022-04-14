@@ -13,7 +13,7 @@ Users who want to go for a coffee date has that option as well.
 - Flutter
 - Firebase,Firestore
 
-![1](https://user-images.githubusercontent.com/75473780/163434290-b9eb120c-6740-4b92-8e88-26e113a23c56.jpg  width="200" height="400")
+![1](https://user-images.githubusercontent.com/75473780/163434290-b9eb120c-6740-4b92-8e88-26e113a23c56.jpg  )
 
 ![2](https://user-images.githubusercontent.com/75473780/163434318-ec32ee08-bbbb-4fb5-a125-00d74567c75c.jpg)
 ![3](https://user-images.githubusercontent.com/75473780/163434330-dd6736d9-9db6-4b1f-bff9-4a11a5effe17.jpg)
