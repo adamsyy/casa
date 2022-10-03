@@ -10,8 +10,10 @@ Users who want to go for a coffee date has that option as well.
 
 ## Stacks used
 
-- Flutter
-- Firebase,Firestore
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF8800?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FF8800?style=for-the-badge&logo=Firebase&logoColor=white)
+
 
 ## App screens
 ![11](https://user-images.githubusercontent.com/75473780/163435771-44e55341-40a7-4152-836e-92325911afc0.jpg)
