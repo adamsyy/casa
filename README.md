@@ -18,3 +18,6 @@ Users who want to go for a coffee date has that option as well.
 ## App screens
 ![11](https://user-images.githubusercontent.com/75473780/163435771-44e55341-40a7-4152-836e-92325911afc0.jpg)
 ![12](https://user-images.githubusercontent.com/75473780/163435779-92c8a0b3-c18a-4e38-9159-6dde593aec05.jpg)
+
+Project by @adamsyy</br>
+Designed by @JezwinThomas
